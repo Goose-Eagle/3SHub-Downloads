@@ -2,11 +2,11 @@
 
 **3SHub**, formerly 3SNetplay, is a Windows x64 desktop client for 3rd Strike with native FBNeo emulation and GGPO rollback.
 
-[Download the Windows launcher](https://github.com/JimboFGC/3SHub-Downloads/releases/download/alpha/3SNetplay-Launcher.zip) | [Website and roadmap](https://3shub-website-production.up.railway.app/) | [Release notes](https://github.com/JimboFGC/3SHub-Downloads/releases/tag/alpha)
+[Download the Windows launcher](https://github.com/Goose-Eagle/3SHub-Downloads/releases/download/alpha/3SHub-Launcher.zip) | [Website and roadmap](https://3shub-website-production.up.railway.app/) | [Release notes](https://github.com/Goose-Eagle/3SHub-Downloads/releases/tag/alpha)
 
 ## Get started
 
-1. Extract the launcher ZIP and open **Play 3SHub.cmd**.
+1. Extract the launcher ZIP and open **3SHub.exe**.
 2. Select your compatible local ROMs and configure your controller.
 3. Use your alpha invitation to register, then challenge a player or create/join a private room.
 
